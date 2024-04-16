@@ -4,7 +4,7 @@ Em seguida, realiza cálculos para determinar o valor total de vendas para cada 
 
 
 
-Resultado1>
+<h2>Resultado1></h2>
 
 Dados da filial 1:
    ID do Produto                   Nome do Produto  Quantidade Vendida  \
@@ -98,7 +98,7 @@ Dados Transformados ds Filial 2: (do arquivo CSV)
 
 
 
-Resultado2>
+<h2>Resultado2></h2>
 
 
 Dados Transformados da Filial 1 (do banco de dados SQL):
@@ -133,7 +133,7 @@ Dados Transformados da Filial 2 (do banco de dados SQL):
 
 
 
-Resultado3>
+<h2>Resultado3></h2>
 
 Dados Transformados da Filial 1:
 (101, 'Laptop Dell XPS 13', 20, 1500.0, 30000.0)
